@@ -8,6 +8,12 @@ This is a complex Library Management System implemented using PostgreSQL, showca
 - PL/pgSQL
 - PlantUML (for database schema visualization)
 
+## Entity-Relationship Diagram
+
+The following diagram shows the complete database schema with all entities and their relationships:
+
+![Library Management System ER Diagram](LeXVP0_9sZq2YXdQvagFiAFEasZZkBPNHzVH3dnKxW61gBBIBJpXrOubvPGrCt7Mrn_Ssf7Vf2xVZlXQun655nK8yHuND30ldKFu8QKQPmjMLsUtCdQqXYREmffFqv78w7t9Y3ZJ15aZcOsvd0gAeB3K_v3GM8bbohum9uL7kssqNls4IyA40uZ6uI_GRoLy0vOtbJq3m00)
+
 ### Stored Procedures Documentation
 
 #### Low Complexity Procedures
